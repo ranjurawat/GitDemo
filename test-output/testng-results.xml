@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-22T10:17:16 IST" name="Suite" finished-at="2022-03-22T10:17:23 IST" duration-ms="6996">
+    <groups>
+    </groups>
+    <test started-at="2022-03-22T10:17:16 IST" name="Test" finished-at="2022-03-22T10:17:23 IST" duration-ms="6996">
+      <class name="AutomationProject.automation.AngularWebLogin">
+        <test-method is-config="true" signature="deleteCookieNamedExample(java.lang.String)[pri:0, instance:AutomationProject.automation.AngularWebLogin@2fb3536e]" started-at="2022-03-22T10:17:16 IST" name="deleteCookieNamedExample" finished-at="2022-03-22T10:17:22 IST" duration-ms="5700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://vedanta-esl-dev.web.app]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookieNamedExample -->
+        <test-method signature="forgotPass()[pri:0, instance:AutomationProject.automation.AngularWebLogin@2fb3536e]" started-at="2022-03-22T10:17:22 IST" name="forgotPass" finished-at="2022-03-22T10:17:22 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPass -->
+        <test-method signature="enterEmail()[pri:1, instance:AutomationProject.automation.AngularWebLogin@2fb3536e]" started-at="2022-03-22T10:17:22 IST" name="enterEmail" finished-at="2022-03-22T10:17:23 IST" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterEmail -->
+      </class> <!-- AutomationProject.automation.AngularWebLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
